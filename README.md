@@ -1,6 +1,6 @@
 # My Codewars Solutions Repository 📚
 
-Welcome to my personal codewaes solutions repository! Here, I share the solutions to codewars problems. Each folder represents a differnt level of difficult, I will be sharing how I approach the problems to solve them.
+Welcome to my personal codewars solutions repository, here I share the solutions to codewars problems. Each folder represents a differnt level of difficult, I will be sharing how I approach the problems to solve them. I believe that the 1st thing everyone who is learning to code should know is problem solving. Knowing the syntax wont help if you do not know how to solve the problem at hand and that is what I have been struggling with. Which is why I am using codewars to help strengthen my problem solving skills.
 
 ## 📝 How to Utilize
 
